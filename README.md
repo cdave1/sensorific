@@ -6,6 +6,6 @@ The primary goal is to determine the real-world location of a sensor, based on s
 
 TODO:
 
-* --Simulator--
+* ~~Simulator~~
 * IOS app
 * Database
